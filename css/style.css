@@ -1,0 +1,19 @@
+.header{
+	background-color: gray;
+	margin: 10px;
+}
+.box{
+	min-height: 100px;
+	background-color: red;
+	margin-bottom: 10px;
+	font-size: 50px;
+	color: white;
+
+}
+.t-pink{
+	background-color: pink;
+}
+.f-teal{
+	background-color:teal;
+
+}
